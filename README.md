@@ -1,4 +1,4 @@
 # drumtabs
-vc for some drum tabs
+Version control for some drum tabs.
 
 wp_* indicates that a tab is a work in progress.
